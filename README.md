@@ -3,4 +3,7 @@
 * Template String
 * Funciones Flecha
 * Destructuracion
-* Callbacks 
+* Callbacks básico
+* Callback hell
+* Promesas
+* Async - Await
